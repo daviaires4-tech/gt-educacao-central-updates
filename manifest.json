@@ -1,6 +1,6 @@
 {
-  "version": "0.8.3",
-  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.8.3/gt_educacao_update.zip",
-  "sha256": "9717b19d02c7667b975206ab1972daa3f1d6cbcede047709d9baec14b4f80781",
-  "notes": "Versão 0.8.3: Correção do fechamento automático do navegador após o login no assistente."
+  "version": "0.8.4",
+  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.8.4/gt_educacao_update.zip",
+  "sha256": "a992cf5c1a6783805c42a5661984d115d6d626edc0ec48f60d963fd9f5dcf23d",
+  "notes": "Versão 0.8.4: Navegador persistente mantido aberto sem fechamento abrupto após login."
 }
