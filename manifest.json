@@ -1,6 +1,6 @@
 {
-  "version": "0.8.1",
-  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.8.1/gt_educacao_update.zip",
-  "sha256": "f11228bcb409adfb1a3020d449559dbf68d0bbfb05e01935d3de3626a9994b1c",
-  "notes": "Arquitetura definitiva: requisições intermediadas diretamente pelo navegador persistente (fetch via Playwright)."
+  "version": "0.8.2",
+  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.8.2/gt_educacao_update.zip",
+  "sha256": "723c97b83da2585f8db6016e1f4c5bc5f03d98efcd1e271cb7a10bd9351dff93",
+  "notes": "Versão 0.8.2: Navegador visível e persistente nas requisições da API (evita encerramento abrupto e preserva sessão)."
 }
