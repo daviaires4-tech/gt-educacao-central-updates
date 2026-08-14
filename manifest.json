@@ -1,6 +1,6 @@
 {
-  "version": "0.8.7",
-  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.8.7/gt_educacao_update.zip",
-  "sha256": "91c8bec941e42a1417f1f2dd57aaf341557e90b8f25ef5d693cf1ed01dbf7f55",
-  "notes": "Versão 0.8.7: Compartilhamento da página viva do Playwright entre a captura de sessão e o mapeamento de turmas."
+  "version": "0.8.8",
+  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.8.8/gt_educacao_update.zip",
+  "sha256": "062fbbeddf9139ad0f5687f0a1dc55d928a9031e24b7c0f39d41218bf32f15f6",
+  "notes": "Versão 0.8.8: Validação robusta de rotas de turmas no GTExecutor."
 }
