@@ -1,6 +1,6 @@
 {
-  "version": "0.8.4",
-  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.8.4/gt_educacao_update.zip",
-  "sha256": "a992cf5c1a6783805c42a5661984d115d6d626edc0ec48f60d963fd9f5dcf23d",
-  "notes": "Versão 0.8.4: Navegador persistente mantido aberto sem fechamento abrupto após login."
+  "version": "0.8.5",
+  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.8.5/gt_educacao_update.zip",
+  "sha256": "2179855a91c1af9c6940e4d656f4fa0a875bf4b91c8ad17ee3b69a52438b2a0f",
+  "notes": "Versão 0.8.5: Limpeza de lockfiles do perfil persistente, headers HTTP de navegador real e validação segura de sessão."
 }
