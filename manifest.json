@@ -1,6 +1,6 @@
 {
-  "version": "0.7.9",
-  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.7.9/gt_educacao_update.zip",
-  "sha256": "411c4a13bf1fb6970ff70f15926f591883a14276ca1601fba721dd5d05c5d759",
-  "notes": "Correção definitiva: navegador persistente no Edge e canal de atualização ativa via manifesto público."
+  "version": "0.8.1",
+  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.8.1/gt_educacao_update.zip",
+  "sha256": "f11228bcb409adfb1a3020d449559dbf68d0bbfb05e01935d3de3626a9994b1c",
+  "notes": "Arquitetura definitiva: requisições intermediadas diretamente pelo navegador persistente (fetch via Playwright)."
 }
