@@ -1,6 +1,6 @@
 {
-  "version": "0.7.1",
-  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.7.1/gt_educacao_update.zip",
-  "sha256": "aa3aa3a22ae4d3dcb73558c0318e7783ac686f186cff981e020d08218d7da857",
-  "notes": "Instalador inicial, atualização automática e navegador assistido."
+  "version": "0.7.2",
+  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.7.2/gt_educacao_update.zip",
+  "sha256": "f8e6259658f65cc54cbdedfb72dc4159ea5c25078473f9d4b5647a34926ef219",
+  "notes": "Pacote final validado do instalador, navegador assistido e atualização automática."
 }
