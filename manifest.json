@@ -1,6 +1,6 @@
 {
-  "version": "0.8.6",
-  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.8.6/gt_educacao_update.zip",
-  "sha256": "2e9357c9cae79974ca3bbd303b649eb9e89f056e5a82a2bf15edf8c57108e929",
-  "notes": "Versão 0.8.6: Fallback automático de API via fetch no perfil persistente do Playwright."
+  "version": "0.8.7",
+  "package_url": "https://github.com/daviaires4-tech/gt-educacao-central-updates/releases/download/v0.8.7/gt_educacao_update.zip",
+  "sha256": "91c8bec941e42a1417f1f2dd57aaf341557e90b8f25ef5d693cf1ed01dbf7f55",
+  "notes": "Versão 0.8.7: Compartilhamento da página viva do Playwright entre a captura de sessão e o mapeamento de turmas."
 }
